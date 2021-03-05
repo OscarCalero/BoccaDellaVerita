@@ -39,6 +39,6 @@ Oscar
 
 Ha sido programada en su conjunto por Oscar Calero '2021.
 ```
-Se puede utilizar el script sin restricciones para uso particular
+Se puede utilizar el código sin restricciones 
 ```
 !! El usuario debe utilizarla bajo su propio riesgo y responsabilidad. !!
