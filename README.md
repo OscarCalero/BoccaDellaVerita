@@ -7,14 +7,14 @@ This is the link in youtube about how it works:  https://youtu.be/Nd6taGteSHY
 This is a Thingeverse repository: https://www.thingiverse.com/thing:4783896
 
 ## What is...
-This devide turn on its red eyes and play a sound file when a RFID is introduced in his mouth....
+This devide turn on its red eyes and play a sound file when a RFID is introduced in his mouth.... This is becuase processor like Atmega328P in Arduino device. 
 
 ## Instructions...
 
 ```
 First to print the model. There is a specific part for RFID and SD card reader fixed with screws.
 Make holes (eyes, mouth and speakers)
-Include components, according to images.
+Include components, according to images RFID 522, processor like Arduino UNO, SD reader, 2cm diam. speaker, LEDs and etc..
 Connections according to electronic diagram.
 The device program is a bocca.ino file and you can modify it with your RFIDs and your voice records stored on the SD card.
 Different voice / music files are played with each RFID. The sound file is WAV PCM 8bits 48Khz.
