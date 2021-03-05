@@ -20,7 +20,7 @@ Different voice / music files are played with each RFID. The sound file is WAV P
 It has been tested on 8Gb and 16Gb SD cards and works fine. However, on an old 16Mb card, the result was not correct.
 
 
-$$ In bocca.ino file you MUST:
+## In bocca.ino file you MUST:
 1.- Download libraries
 2.- Include your RFIDs
 3.- Change WAV files
