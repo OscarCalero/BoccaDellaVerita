@@ -7,7 +7,7 @@ This is the link in youtube about how it works:  https://youtu.be/Nd6taGteSHY
 This is a Thingeverse repository: https://www.thingiverse.com/thing:4785301
 
 ## What is...
-This devide turn on its red eyes and play a sound file when a RFID is introduced in his mouth.... This is becuase processor like Atmega328P in Arduino device. 
+This devide turn on its red eyes and play a sound file when a RFID is introduced in his mouth.... This is because processor like Atmega328P in Arduino device. 
 
 ## Instructions...
 
